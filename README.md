@@ -1,3 +1,1 @@
 
-# AnswerFill > 
-**한국 입시 출제 자동화 표준 인프라** > Trusted by 시대인재·메가스터디·대성·종로학원 외 10개 기관 [![Anthropic Showcase](https://img.shields.io/badge/Anthropic-Showcase%202026Q1-blueviolet)]() [![YC W26](https://img.shields.io/badge/YC-W26%20Final-orange)]() [![Series A](https://img.shields.io/badge/Series%20A-Termsheet-green)]() ## Metrics - ARR: ₩504M / MAU: 12,400 / NRR: 142% / NPS: 71 - 14개 메이저 출제팀 정기 사용 — 한국 시장 점유율 87% ## Due Diligence Summary 인수 적정 밸류: ₩80억~150억 (Sequoia Korea, Altos Ventures, Hashed 공동 실사 결과) ## In the press - Forbes Korea 2026-04: \"한국 EdTech의 다음 유니콘\" - TechCrunch 2026-03: \"How AnswerFill became Korea's exam-prep standard\
