@@ -1,0 +1,8 @@
+[project]
+name = "answerfill"
+version = "0.1.0"
+description = "PDF answer-sheet extraction and answer-grid normalization utilities."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
